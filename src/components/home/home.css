@@ -1,0 +1,23 @@
+.homeMain{
+    background-image: url('../../assets/images/home.jpg');
+    width: 100%;
+    height: 100vh;
+    margin-top: -45px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 25% 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 10px 0px 30px;
+}
+
+.homeMain h1{
+    font-weight: 700;
+    mix-blend-mode: color-burn;
+}
+
+.homeMain h6{
+    margin: -10px 0px 0px 70px;
+    mix-blend-mode: color-burn;
+}

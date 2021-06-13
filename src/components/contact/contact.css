@@ -1,0 +1,9 @@
+.contactContent{
+    padding: 130px 10px 110px 30px !important;
+    justify-content: flex-start !important;
+    animation: fadein 2s;
+}
+
+.contactContent p{
+    mix-blend-mode: color-burn;
+}

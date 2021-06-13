@@ -1,0 +1,25 @@
+.loginSection{
+    width: 100vw;
+    height: 92vh;
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    background: #dcdbdb;
+    padding-top: 45px;
+}
+
+.loginSection input {
+    margin: 10px 0px;
+    min-width: 350px;
+    width: 100%;
+}
+
+.loginSection h2{
+    text-align: center;
+}
+
+.loginSection a{
+    text-decoration: none;
+    padding-left: 250px;
+}

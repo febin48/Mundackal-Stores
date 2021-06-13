@@ -1,0 +1,20 @@
+.regSection h2{
+    text-align: center;
+}
+
+.regSection{
+    width: 100vw;
+    height: 92vh;
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    background: #dcdbdb;
+    padding-top: 45px;
+}
+
+.regSection input {
+    margin: 10px 0px;
+    max-width: 350px;
+    width: 100%;
+}
